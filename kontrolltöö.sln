@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kontrolltöö", "kontrolltöö.csproj", "{FAA31343-1A4C-46F4-9199-C9914EFF148F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA31343-1A4C-46F4-9199-C9914EFF148F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA31343-1A4C-46F4-9199-C9914EFF148F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA31343-1A4C-46F4-9199-C9914EFF148F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA31343-1A4C-46F4-9199-C9914EFF148F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9BC7D2-1384-4933-9BF6-7A661AC93DEF}
+	EndGlobalSection
+EndGlobal
